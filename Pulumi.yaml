@@ -1,5 +1,5 @@
 name: nestjs-aws
-description: A minimal AWS TypeScript Pulumi program
+description: NestJs boilerplate deployment on AWS 
 runtime:
   name: nodejs
   options:
